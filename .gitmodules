@@ -1,0 +1,6 @@
+[submodule "design/standard/lib/bootstrap"]
+	path = design/standard/lib/bootstrap
+	url = git@github.com:myxt/bootstrap.git
+[submodule "lib/lessphp"]
+	path = lib/lessphp
+	url = git@github.com:myxt/lessphp.git
